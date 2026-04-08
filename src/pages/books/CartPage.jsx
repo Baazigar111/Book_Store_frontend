@@ -1,7 +1,7 @@
 import React, { use } from 'react'
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom'
-import { getImgUrl } from '../../utils/getimgUrl';
+import { getImgUrl } from '../../utils/getImgUrl';
 import { removeFromCart, clearCart } from '../../redux/features/cart/cartSlice';
 
 const CartPage = () => {

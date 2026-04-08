@@ -1,6 +1,6 @@
 import React from 'react'
 import { FiShoppingCart, FiEye } from 'react-icons/fi';
-import { getImgUrl } from '../../utils/getimgUrl';
+import { getImgUrl } from '../../utils/getImgUrl';
 import { Link } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 import { addToCart } from '../../redux/features/cart/cartSlice';
