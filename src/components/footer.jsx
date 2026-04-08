@@ -1,5 +1,5 @@
 import React from 'react'
-import footerLogo  from "../assets/footer-logo.png"
+import footerLogo from "../assets/footer-logo.png"
 
 import { FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa"
 
@@ -17,6 +17,7 @@ const Footer = () => {
             <li><a href="#about" className="hover:text-primary">About Us</a></li>
             <li><a href="#contact" className="hover:text-primary">Contact</a></li>
           </ul>
+
         </div>
 
         {/* Right Side - Newsletter */}
