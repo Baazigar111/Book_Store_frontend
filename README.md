@@ -45,7 +45,7 @@ The administrative side is protected by JWT authentication. Use the following cr
 **Frontend**
 *   **React.js** (Vite)
 *   **Stitch & Antigravity** (Design & Layout)
-*   **Redux Toolkit & RTK Query** (State Management & API Fetching)
+*   **Redux Toolkit** (State Management & API Fetching)
 *   **Tailwind CSS** (Styling)
 
 **Backend**
